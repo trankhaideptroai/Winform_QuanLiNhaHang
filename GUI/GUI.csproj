@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{46D77D67-6169-492B-A11B-6B9C740E1A98}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.4\lib\net461\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FDatBanAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDatBanAn.Designer.cs">
+      <DependentUpon>FDatBanAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FDMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDMK.Designer.cs">
+      <DependentUpon>FDMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FHoaDon.Designer.cs">
+      <DependentUpon>FHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLogin.Designer.cs">
+      <DependentUpon>FLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FQuenMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FQuenMK.Designer.cs">
+      <DependentUpon>FQuenMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mdiProperties.cs" />
+    <Compile Include="Model\FCategoryAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\FCategoryAdd.Designer.cs">
+      <DependentUpon>FCategoryAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\FFoodAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\FFoodAdd.Designer.cs">
+      <DependentUpon>FFoodAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\FNhanvienAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\FNhanvienAdd.Designer.cs">
+      <DependentUpon>FNhanvienAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\FTableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\FTableAdd.Designer.cs">
+      <DependentUpon>FTableAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\SPNhapKhoAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\SPNhapKhoAdd.Designer.cs">
+      <DependentUpon>SPNhapKhoAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimpleAdd.Designer.cs">
+      <DependentUpon>SimpleAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SimpleView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimpleView.Designer.cs">
+      <DependentUpon>SimpleView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FCategoryView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FCategoryView.Designer.cs">
+      <DependentUpon>FCategoryView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FFoodView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FFoodView.Designer.cs">
+      <DependentUpon>FFoodView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FNhanvienView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FNhanvienView.Designer.cs">
+      <DependentUpon>FNhanvienView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FSPNhapKhoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FSPNhapKhoView.Designer.cs">
+      <DependentUpon>FSPNhapKhoView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FTableView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FTableView.Designer.cs">
+      <DependentUpon>FTableView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FThongKe.Designer.cs">
+      <DependentUpon>FThongKe.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FDatBanAn.resx">
+      <DependentUpon>FDatBanAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDMK.resx">
+      <DependentUpon>FDMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FHoaDon.resx">
+      <DependentUpon>FHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLogin.resx">
+      <DependentUpon>FLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FQuenMK.resx">
+      <DependentUpon>FQuenMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\FCategoryAdd.resx">
+      <DependentUpon>FCategoryAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\FFoodAdd.resx">
+      <DependentUpon>FFoodAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\FNhanvienAdd.resx">
+      <DependentUpon>FNhanvienAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\FTableAdd.resx">
+      <DependentUpon>FTableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\SPNhapKhoAdd.resx">
+      <DependentUpon>SPNhapKhoAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SimpleAdd.resx">
+      <DependentUpon>SimpleAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimpleView.resx">
+      <DependentUpon>SimpleView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FCategoryView.resx">
+      <DependentUpon>FCategoryView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FFoodView.resx">
+      <DependentUpon>FFoodView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FNhanvienView.resx">
+      <DependentUpon>FNhanvienView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FSPNhapKhoView.resx">
+      <DependentUpon>FSPNhapKhoView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FTableView.resx">
+      <DependentUpon>FTableView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FThongKe.resx">
+      <DependentUpon>FThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{1f82b706-700d-4ea1-b558-808b8a0dbfe7}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{c23f07a0-0fb4-41be-bee0-73843a95dbfa}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{5de8744b-ff79-4454-a014-72d30aa0b81f}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

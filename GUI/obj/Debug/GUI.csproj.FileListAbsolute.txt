@@ -1,0 +1,76 @@
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\bin\Debug\GUI.exe.config
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\bin\Debug\GUI.exe
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\bin\Debug\GUI.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\bin\Debug\Guna.UI.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.exe
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\bin\Debug\DAL.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\bin\Debug\DTO.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\bin\Debug\DAL.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.SimpleAdd.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.SimpleView.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.View.FTableView.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.Model.FTableAdd.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.View.FCategoryView.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.Model.FCategoryAdd.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.View.FFoodView.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.Model.FFoodAdd.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.FDatBanAn.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\bin\Debug\BUS.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.FLogin.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.FQuenMK.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.FDoiMatKhau.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.View.FNhanVienView.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.Model.FNhanvienAdd.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.View.FSPNhapKhoView.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.Model.SPNhapKhoAdd.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.View.FThongKe.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.FHoaDon.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\GUI\obj\Debug\GUI.FDMK.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\GUI.exe.config
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\GUI.exe
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\GUI.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\BUS.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\DAL.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\DTO.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\DAL.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.FDatBanAn.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.FDMK.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.FHoaDon.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.FLogin.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.FQuenMK.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.Model.FCategoryAdd.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.Model.FFoodAdd.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.Model.FNhanvienAdd.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.Model.FTableAdd.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.Model.SPNhapKhoAdd.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.SimpleAdd.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.SimpleView.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.View.FCategoryView.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.View.FFoodView.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.View.FNhanVienView.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.View.FSPNhapKhoView.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.View.FTableView.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.View.FThongKe.resources
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.exe
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\obj\Debug\GUI.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\itextsharp.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\GUI\bin\Debug\itextsharp.xml

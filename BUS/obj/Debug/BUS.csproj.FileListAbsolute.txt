@@ -1,0 +1,22 @@
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\BUS\bin\Debug\BUS.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\BUS\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\BUS\bin\Debug\DAL.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\BUS\bin\Debug\DTO.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\BUS\bin\Debug\DAL.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\BUS\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\BUS\obj\Debug\BUS.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\BUS\obj\Debug\BUS.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\BUS\bin\Debug\BUS.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\BUS\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\BUS\bin\Debug\DAL.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\BUS\bin\Debug\DTO.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\BUS\bin\Debug\DAL.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\BUS\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\BUS\obj\Debug\BUS.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\BUS\obj\Debug\BUS.pdb

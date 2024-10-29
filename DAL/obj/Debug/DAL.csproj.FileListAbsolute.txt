@@ -1,0 +1,18 @@
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\DAL\bin\Debug\DAL.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\DAL\bin\Debug\DAL.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\DAL\bin\Debug\DTO.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\DAL\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\DAL\obj\Debug\DAL.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\adbc\Solution2\DAL\obj\Debug\DAL.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\DAL\bin\Debug\DAL.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\DAL\bin\Debug\DAL.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\DAL\bin\Debug\DTO.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\DAL\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\DAL\obj\Debug\DAL.dll
+C:\Users\admin\Downloads\nguyencanhkhoa\add git\DuAn1\Duan1\Solution2\DAL\obj\Debug\DAL.pdb
